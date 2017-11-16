@@ -1,3 +1,1 @@
-#First static websit.
-Link- manasvi-saxena.github.io/DC/
-Only HTML and INLINE CSS is used.
+Only HTML and INLINE CSS is used
